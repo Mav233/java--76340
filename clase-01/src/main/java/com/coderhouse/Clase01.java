@@ -64,8 +64,6 @@ public class Clase01 {
 		//Comparacion no permitada por ser FUERTEMENTE TIPADO
 		//System.out.println(numeroA == numeroC);
 		
-		
-
 	}
 
 }
