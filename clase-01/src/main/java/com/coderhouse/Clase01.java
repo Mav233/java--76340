@@ -61,8 +61,9 @@ public class Clase01 {
 		System.out.println(numeroA >= numeroB); //MAYOR O IGUAL QUE 
 		
 		
-		//Comparacion no permitada por ser FUERTEMENTE TIPADO
-		//System.out.println(numeroA == numeroC);
+		//Comparacion no permitada por ser "FUERTEMENTE TIPADO"
+		//System.out.println(numeroA == numeroC); 
+		
 		
 	}
 
